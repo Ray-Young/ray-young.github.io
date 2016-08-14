@@ -5,7 +5,7 @@ comments: true
 permalink: /about/
 ---
 
-My name is Lei Yang and you can call me Raymond, Or just Ray is ok
+My name is Lei Yang. You can call me Raymond, Or just Ray is ok
 
 I was born and grown in Shanghai and graduated from Tongji University.
 
