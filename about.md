@@ -17,6 +17,7 @@ In the work I use Perl, Java and Ruby mostly.
 
 Besides, I am interested in Android and Objective-C. Being an APP developer is always on my list. 
 
+! [aboutpic][pic]
 
 
 Now I am a graduate candidate in Boston University, major in Computer Science.
@@ -29,3 +30,5 @@ Someone Once said
 'In this world there are 2% what you know, 2% what you know that you don't know, and 96% what you don't know that you don't know.'
 
 Love exploring the unknown, exploring all eautiful and mysterious things in the world.
+
+[pic]:     /assets/about_me_scenery.jpg
