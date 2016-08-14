@@ -17,7 +17,7 @@ In the work I use Perl, Java and Ruby mostly.
 
 Besides, I am interested in Android and Objective-C. Being an APP developer is always on my list. 
 
-! [aboutpic][pic]
+![aboutpic][pic]
 
 
 Now I am a graduate candidate in Boston University, major in Computer Science.
