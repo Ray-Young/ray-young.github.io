@@ -19,7 +19,7 @@ I used to store my blogs at [cnblog][2], but now I will start moving the old blo
 
 Thanks to [Lirian Su][3], an awesome geek and nice guy, We worked together in developing a Version Control System at QAD Inc. and he taught me to use Git and Jekyll to publish and store my blogs.
 
-Now I am a graduate candidate in Boston University, major in Computer Science.
+Now I am a graduate candidate in Boston University, majoring in Computer Science.
 
 Love travel, love sports, love moives, love all fantastic things and awesome people.
 
