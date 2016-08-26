@@ -1,7 +1,7 @@
 ---
 layout:    post
-title:     "Hello World"
-date:      2016-05-04
+title:     "Git Notes"
+date:      2016-08-25
 comments:  true
 
 ---
