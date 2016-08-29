@@ -13,3 +13,6 @@ excerpt_separator: "<!--MORE-->"
 
 kramdown:
     input: GFM
+
+gems:
+  - jekyll-feed
