@@ -41,3 +41,12 @@ The best part is, On 5th Sep, all these items arrived... Fuckkkkkkkkkkkkkkkkkkkk
 
 ### To be continue
 ~~~
+
+[1]: assets/FirstWeekInBU/firstNight 
+[2]: assets/FirstWeekInBU/luggage 
+[3]: assets/FirstWeekInBU/dormOutside 
+[4]: assets/FirstWeekInBU/BostonPark 
+[5]: assets/FirstWeekInBU/railway 
+[6]: assets/FirstWeekInBU/roomInside1
+[7]: assets/FirstWeekInBU/roomInside2
+[8]: assets/FirstWeekInBU/roomInside3
