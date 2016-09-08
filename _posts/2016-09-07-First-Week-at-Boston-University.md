@@ -9,7 +9,7 @@ comments: true
 Arrived at Boston at 31 August, it's already very late after checking in the hotel and go to the market for the furniture. It's bit rainy at night.
 ![firstNight][1]
 
-When I first got to my aunt's house, I only took 2 luggage with me. But when I came to Boston, I took 4 luggage with me... I don't know what I have bought in 
+When I first got to my aunt's house, I only took 2 luggages with me. But when I came to Boston, I took 4 luggages with me... I don't know what I have bought in 
 these two weeks...
 ![tooMuchLuggage][2]
 
@@ -25,13 +25,15 @@ Forget it. Let's see a good scenery of Boston.
 
 ### Railway
 It's a night railway picture of Boston. The traffic of Boston is similiar to 
-Beijing. Both Boston and Beijing has a long history, which makes it's hard to build modern traffic due to the ancient buildings.
+Beijing. Both Boston and Beijing has a long history, which makes it hard to build modern traffic due to the ancient buildings.
 ![railway][5]
 
 ### Setup
 Setup a room just like setup a development environment. The most difficult part in programming is not write a complex algorithm, but seting up the development environment. So as assemble the furniture and clean up the room. Let's see the result of my work.
 ![roomPicture][6]
+
 ![roomPicture][7]
+
 ![roomPicture][8]
 
 ### Awesome Amazon
