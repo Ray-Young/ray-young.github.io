@@ -36,14 +36,16 @@ Each time you can either climb 1 or 3 steps. In how many distinct ways can you c
 
 ### Solution DP
 Also, you can solve this problem by dynamic programming. If there is k1 ways to reach n-3, k2 ways to reach n-1, then it must be k1 + k2 ways to reach k.
+
 ```java
-int three_step_before = 3;
-int one_step_before = 1;
-int all_ways;
-for (int i = 3; i < n; i++) {
-    all_ways = three_step_before + one_step_before;
-    three_step_before = one_step_before;
-    one_step_before = all_ways;
-}
+	int three_step_before = 3;
+	int one_step_before = 1;
+	int all_ways;
+	for (int i = 3; i < n; i++) {
+	    all_ways = three_step_before + one_step_before;
+	    three_step_before = one_step_before;
+	    one_step_before = all_ways;
+	}
 ```
+
 This algorithm will calculate the number of all distinct sets.
