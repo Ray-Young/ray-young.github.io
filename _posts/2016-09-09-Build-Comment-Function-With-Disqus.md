@@ -30,9 +30,7 @@ It's the final step to finish the process. You need to add the include content t
 You should add it like this in layout/post.index in header.
 
 ```bash
-{% if page.comments 
 include disqus.html
-endif %}
 ```
 
 Now you will have your own comment function built by DISQUS.
