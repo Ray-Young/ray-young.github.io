@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "Back Tracking Algorithm"
-date: 2016-09-10
+layout:   post
+title:    "Build comment function with Disqus"
+date:     2016-09-09
 comments: true
 ---
 
