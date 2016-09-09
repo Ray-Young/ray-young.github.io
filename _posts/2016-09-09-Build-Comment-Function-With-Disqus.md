@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Build comment function with Disqus"
-date: 2016-09-09
+title: "Back Tracking Algorithm"
+date: 2016-09-10
 comments: true
 ---
-
 
 ### Introduction
 Every blog need a comment function. So as this blog. I tried to build the comment function with DISQUS today, but I don't find a clear page describe how to build it up step by step. So I decide to write down my procedures.
@@ -23,6 +22,7 @@ The work is still on half by here. Now you need to add [Universal Embed Code][2]
 ```java
 dispus.html
 ```
+
 Just copy and paste the JS code into dispus.html. But notice you must register the disqus account first.
 
 ### Include in layout
