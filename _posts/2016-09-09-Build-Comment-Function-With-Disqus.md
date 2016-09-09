@@ -20,7 +20,7 @@ Now you can follow the official [document][1] to add annotiation at page definat
 ### Trick Part
 The work is still on half by here. Now you need to add [Universal Embed Code][2] to include folder, and name it as
 
-```bash
+```java
 dispus.html
 ```
 Just copy and paste the JS code into dispus.html. But notice you must register the disqus account first.
@@ -29,7 +29,7 @@ Just copy and paste the JS code into dispus.html. But notice you must register t
 It's the final step to finish the process. You need to add the include content to the layout, so every post will have a comment function.
 You should add it like this in layout/post.index in header.
 
-```bash
+```java
 {% if page.comments 
 include disqus.html
 endif %}
