@@ -3,7 +3,7 @@ layout:    post
 title:     "Git Notes"
 date:      2016-08-25
 comments:  true
-
+tags: [Git]
 ---
 
 ## Purpose

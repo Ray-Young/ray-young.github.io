@@ -3,8 +3,7 @@ layout: post
 title: "Back Tracking Algorithm"
 date: 2016-09-08
 comments: true
-tags: [Github Page, Disqus]
-category: Algorithm
+tags: [Algorithm]
 ---
 
 ### Back tracking

@@ -3,6 +3,7 @@ layout: post
 titie: "First Week at Boston University"
 date: 2016-09-07
 comments: true
+tags: [Personal]
 ---
 
 ### First Night

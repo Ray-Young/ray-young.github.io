@@ -3,6 +3,7 @@ layout:   post
 title:    "Build comment function with Disqus"
 date:     2016-09-09
 comments: true
+tags: [Github Page, Disqus]
 ---
 
 ### Introduction
