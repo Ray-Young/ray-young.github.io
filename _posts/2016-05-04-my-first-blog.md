@@ -1,6 +1,6 @@
 ---
 layout:    post
-title:     "Hello World"
+title:     "New Trip"
 date:      2016-05-04
 comments:  true
 tags: [Personal]
@@ -13,7 +13,7 @@ Thanks to [Lirian Su][2], an awesome geek and nice guy, We worked together in de
 
 Mostly I will publish articles about programming techinques and summaries. Sometimes I will publish some personal things like travel and feelings.
 
-In one word, anything is for fun~.
+Have fun~~!
 
 [1]: http://www.cnblogs.com/Raymond-Yang/
 [2]: http://www.liriansu.com/
