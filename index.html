@@ -27,15 +27,12 @@ layout: default
             {% for tag in post.tags %}
               {% assign downcase_tag = tag | downcase | replace:' ','*' %}
               {% if downcase_tag == sorted_tag %}
-              <a href="{{ site.baseurl }}/blog/tags/#{{ tag }}" class="bl-tag">
-               {{ tag }}
-              </a>
+                <a href="{{ site.baseurl }}/blog/tags/#{{ tag }}" class="bl-tag"> {{ tag }} </a>
               {% endif %}
             {% endfor %}
           {% endfor %}
+	  <a href="{{ post.url | prepend: site.baseurl }}"><p></p><small>Read More...</small></a>
         </div>
-        <p class="post-summary">{{ post.summary }}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}"><small>Read More...</small></a>
         {% endfor %}
 	</div>
 
