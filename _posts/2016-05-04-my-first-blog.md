@@ -3,8 +3,6 @@ layout:    post
 title:     "New Trip"
 date:      2016-05-04
 comments:  true
-tags: [Personal]
-
 ---
 
 I used to store my blogs at [cnblog][1], but now I will start move the old blogs here and translate them all in English. It will be a long task so I am not sure when it's finished. Anyway I will try my best.

@@ -3,6 +3,7 @@ layout: page
 title: About Me
 comments: true
 permalink: /about/
+tags: about
 ---
 
 My name is Lei Yang. You can call me Raymond, Or just Ray is ok

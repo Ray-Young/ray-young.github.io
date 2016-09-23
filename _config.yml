@@ -1,23 +1,106 @@
-# Site Settings
-title: Lei Yang
-email: lei.yang.cs.art@gmail.com
-description: Drink 23 cups of water a day. Keep running is tired, but makes good shape. A Java Programmer, Blog writer and App learner.
-baseurl: ""
-url: "http://www.leiyangblog.com"
-twitter_username:
+# Site settings
+title:       Lei Yang
+email:       lei.yang.cs.art@gmail.com
+author:      Lei Yang
+description: "Drink 23 cups of water a day. Keep running is tired, but makes good shape. A Java Programmer, Blog writer and App learner."
+baseurl:     ""
+url:         "http://www.leiyangblog.com"
+date_format: "%b %-d, %Y"
+
+# Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics: true
+google_tag_manager:
+# Bing services
+bing_verification:
+
+# Optional features
+animated:             true
+show_related_posts:   false
+show_post_footers:    false
+show_social_icons:    true
+ajaxify_contact_form: false
+enable_mathjax: false
+extended_fonts: true
+enable_anchorjs: false
+
+# Facebook Page integration
+# (for instant articles and other stuff)
+fb_page: false
+fb_page_id: 
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: 'leiyangblog'
+
+# Facebook Comments plugin
+# (leave blank to disable Facebook Comments, otherwise set it to true)
+facebook_comments:
+facebook_appid:
+facebook_comments_number: 10
+
+# Social icons
 github_username: Ray-Young
+facebook_username: andy.yang.96199
+stackoverflow_id:
+twitter_username:
+skype_username:
+steam_nickname:
+google_plus_id:
+linkedin_username: lei-yang-293231115
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
 
-markdown: kramdown
-permalink: pretty
-excerpt_separator: "<!--MORE-->"
-repository: ray-young/ray-young.github.com
-github: [metadata]
+# Post sharing icons
+show_sharing_icons: true
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: true
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
 
-kramdown:
-    input: GFM
-    hard_wrap: false
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+  share_buttons:
+    text:         'Share this post!'
+    facebook:     'Share on Facebook'
+    twitter:      'Share on Twitter'
+    googleplus:   'Share on Google+'
+    linkedin:     'Share on LinkedIn'
+    digg:         'Share on Digg'
+    tumblr:       'Share on Tumblr'
+    reddit:       'Share on Reddit'
+    stumbleupon:  'Share on StumbleUpon'
+    hackernews:   'Share on Hacker News'
+  post:
+    updated:        'Updated'
+    minute_read:    'minute read'
+    related_posts:  'Related Posts'
 
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     7
+sass:
+  compressed: true
 gems:
-   - jekyll-coffeescript
-   - jekyll-paginate
-   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-coffeescript
+  - jekyll-feed
+# ttps://github.com/jekyll/jekyll/issues/2938
+exclude: [vendor]

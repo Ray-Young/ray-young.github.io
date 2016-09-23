@@ -1,0 +1,23 @@
+# Site Settings
+title: Lei Yang
+email: lei.yang.cs.art@gmail.com
+description: Drink 23 cups of water a day. Keep running is tired, but makes good shape. A Java Programmer, Blog writer and App learner.
+baseurl: ""
+url: "http://www.leiyangblog.com"
+twitter_username:
+github_username: Ray-Young
+
+markdown: kramdown
+permalink: pretty
+excerpt_separator: "<!--MORE-->"
+repository: ray-young/ray-young.github.com
+github: [metadata]
+
+kramdown:
+    input: GFM
+    hard_wrap: false
+
+gems:
+   - jekyll-coffeescript
+   - jekyll-paginate
+   - jekyll-feed
