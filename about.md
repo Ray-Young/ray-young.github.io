@@ -6,6 +6,13 @@ permalink: /about/
 tags: about
 ---
 
+<br>
+<i>
+"I will graduate in December 2017 and currently I am looking for summer 2017 internship. If you are interested, please see my [resume][10] or contact me throught email: lei.yang.cs.art@gmail.com."
+</i>
+<br>
+<br>
+
 <div style="vertical-align:baseline;float:left;width:15rem;margin-right:1rem;">
 <img style="margin:0;padding:50" src="/assets/about/photo.jpeg">
 </div>
