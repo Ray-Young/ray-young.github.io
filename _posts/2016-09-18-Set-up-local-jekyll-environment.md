@@ -47,6 +47,13 @@ github: [metadata]
 ```
 in the config file so provide necessary Github APIs for Jekyll.
 
+That's all done, noew use
+
+```bash
+bundle exec jekyll serve
+``` 
+to start the local host of jekyll. The default address should be http://localhost:4000/ 
+
 Enjoy your trip in Github Page~
 
 [1]: https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
