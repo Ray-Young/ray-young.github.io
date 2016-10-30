@@ -9,7 +9,9 @@ tags: [Python, Data Science, Machine Learning]
 ### Introduction
 It is a common topic in Data Science and Machine Learning to transfer human
 language into machine language. A popular solution is using vectorizing 
-techiniques (Convert into 0-1 array).
+techiniques (Convert into 0-1 array). 
+
+Recently I am learning Data Science and Machine Learning, here are my experience of TfidfVectorizer.
 
 In Python, there are two common ways to vectorize using [sklearn][1]. 
 Tfidf and Counting vectorizing. 
@@ -21,17 +23,19 @@ TfIdf is the abbreviation for term frequency * inverse document frequency.
 
 Here is an official explaination for Tfidf
 
-```doc
-The idea is that rare words are more informative than common words. (This has connections to information theory).
+The idea is that rare words are more informative than common words.  (This has connections to information theory).
+
 Hence, the definition of tf-idf is as follows.
 First:
-$$\text{tf}(t,d) = \text{Number of times term }t \text{ occurs in document } d$$
-Next, if $N$ is the total number of documents in the corpus $D$ then:
-$$\text{idf}(t,D)=\frac{N}{|\{d\in D : t\in d \}|}$$
-where the denominator is the number of documents in which the term $t$ appears.
+![tfidf1][6]
+
+Next, if N is the total number of documents in the corpus D then:
+![tfidf2][7]
+
+where the denominator is the number of documents in which the term t appears.
 And finally:
-$$\text{tf-idf}(t,d)=\text{tf}(t,d)\times \text{idf}(t,D)$$
-```
+
+![tfidf3][8]
 
 ### Example
 
@@ -76,14 +80,20 @@ _idf
 ```python
 get_feature_name
 ```
+
 to see each item and get the corresponding weight. Here the 
 [Official Document][3] gives detailed explaination for this.
 
+### Resources
 Here is [another very good explaination][4] in Stackoverflow
 
 You can also see the [whole example][5] in my github
+
 [1]: http://scikit-learn.org/stable/
 [2]: http://scikit-learn.org/stable/modules/feature_extraction.html
 [3]: http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
 [4]: http://stackoverflow.com/questions/8897593/similarity-between-two-text-documents
 [5]: https://github.com/Ray-Young/RSS-Reader
+[6]: /assets/tfidf/tfidf1.png
+[7]: /assets/tfidf/tfidf2.png
+[8]: /assets/tfidf/tfidf3.png
