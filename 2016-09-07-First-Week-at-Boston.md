@@ -29,18 +29,13 @@ It's a night railway picture of Boston. The traffic of Boston is similiar to
 Beijing. Both Boston and Beijing has a long history, which makes it hard to build modern traffic due to the ancient buildings.
 ![railway][5]
 
-### Setup
-Setup a room just like setup a development environment. The most difficult part in programming is not write a complex algorithm, but seting up the development environment. So as assemble the furniture and clean up the room. Let's see the result of my work.
+### Move in
+Move in a room just like setup a development environment. The most difficult part in programming is not write a complex algorithm, but seting up the development environment. So as assemble the furniture and clean up the room. Let's see the result of my work.
 ![roomPicture][6]
 
 ![roomPicture][7]
 
 ![roomPicture][8]
-
-### Awesome Amazon
-I bought the bed, mattress and chair from Amazon. While on August 31, it said the bed was lost. On Sep 1st, it said the mattress was lost. On Sep 2nd, it said the char was lost. Hooooooooooooooooooooooooooly shit, Fuck UPS. Amazon promise to resend these items to me, but I still slept on the floor for two days. 
-
-The best part is, On 5th Sep, all these items arrived... Fuckkkkkkkkkkkkkkkkkkkkkkk UPS again. So after all, I have to send back all these items to Amazon...
 
 ### To be continue
 ~~~
