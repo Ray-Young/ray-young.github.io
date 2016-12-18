@@ -16,6 +16,8 @@ Github has provided [official document][1] on how to set up the environment.
 While there are still a few tricky points blocked me. I will list them and 
 wish to help someone meets the same problems.
 
+Note: We have to follow the instruction to install the ruby and related gems, including Jekyll. You can refer my github for the corresponding configurations.
+
 ### Specify repository name in config
 When I finish the set up steps and try to make some updates, an error occurs which says
 
