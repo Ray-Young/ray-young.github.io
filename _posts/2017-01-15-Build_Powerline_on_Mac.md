@@ -96,6 +96,9 @@ You may find more configurations about vim from [here][5] (Node it's not
 related with Powerline, but will make your vim operations more
 convenient)
 
+Another [system path][7] knowledge may help better understand the above
+configurations.
+
 Restart terminal and enjoy :)
 
 Result Demo:
@@ -108,3 +111,4 @@ Result Demo:
 [4]: https://github.com/powerline/fonts
 [5]: https://github.com/Ray-Young/dotvim/blob/master/vimrc
 [6]: /assets/powerline/demo.png
+[7]: http://stackoverflow.com/questions/13978654/export-path-in-profile-on-mac
