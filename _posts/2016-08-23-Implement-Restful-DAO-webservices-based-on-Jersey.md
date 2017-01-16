@@ -1,7 +1,7 @@
 ---
 layout:    post
 title:     "Implement Restful DAO Webservices based on Jersey"
-date:      2016-04-25
+date:      2016-08-23
 comment:   true
 tags: [Java, Jersey, WebService]
 ---
