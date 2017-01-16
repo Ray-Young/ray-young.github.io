@@ -3,24 +3,29 @@ layout: post
 title: Build Powerline on OS Sierra
 date: 2017-01-15
 comments: true
+tags: [Powerline, Environment, OS Sierra]
 ---
 
-The new python 3.5 environment and OS Sierra seems break the powerline
-configuration. Here are my solutions to some tricky problems.
+The new python 3.5 environment and OS Sierra seems have
+ some tricks when configure the powerline configuration.
+ Here are my solutions to some tricky problems. (Solve powerline-config
+not found problem, etc.)
 
 The [official doc][1] seems a bit complex. Here is a [short guide][2] I
 find useful when build the powerline. We only need the following steps.
 
-1. Install Python (We can install it from official python website, or
-   Brew)
+### 1. Install Python (We can install it from official python website, or Brew)
 
-2. Install Powerline from pip (Or we can install it from git)
+So many instructions online, just google python :)
+
+### 2. Install Powerline from pip (Or we can install it from git)
 
 ```bash
 sudo pip install powerline-status
 ```
 
-3. Config Powerline in bash_profile
+### 3. Config Powerline in bash_profile
+
 Go to home directory
 ```bash
 cd ~
@@ -61,10 +66,10 @@ found the solution from [here][3].
 export POWERLINE_CONFIG_COMMAND=powerline-config
 ```
 
-4. Install the Powerline font
+### 4. Install the Powerline font
 Follow the [guide][4], it's a easy step.
 
-5. Configure .Vimrc
+### 5. Configure .Vimrc
 
 Copy the following part to .vimrc (if you don't have one, create it at
 home directory)
@@ -91,8 +96,15 @@ You may find more configurations about vim from [here][5] (Node it's not
 related with Powerline, but will make your vim operations more
 convenient)
 
+Restart terminal and enjoy :)
+
+Result Demo:
+![result_demo][6]
+
+
 [1]: https://powerline.readthedocs.io/en/latest/installation/osx.html
 [2]: http://www.jianshu.com/p/68ef9d2e1653
 [3]: https://github.com/powerline/powerline/issues/850
 [4]: https://github.com/powerline/fonts
 [5]: https://github.com/Ray-Young/dotvim/blob/master/vimrc
+[6]: /assets/powerline/demo.png
