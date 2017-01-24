@@ -6,6 +6,7 @@ comments: true
 tags: [Powerline, Environment, OS Sierra]
 ---
 
+### Introduction
 The new python 3.5 environment and OS Sierra seems have
  some tricks when configure the powerline configuration.
  Here are my solutions to some tricky problems. (Solve powerline-config
