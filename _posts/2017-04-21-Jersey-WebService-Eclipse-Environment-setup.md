@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JAX-RS Jerseys WebService Eclipse Development Environment Setup
+title: JAX-RS Jerseys Eclipse Environment Setup
 date: 2017-04-21
 comments: true
 tags: [WebService, JAX-RS]
