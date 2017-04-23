@@ -8,7 +8,7 @@ tags: about
 
 <br>
 <i>
-"I will graduate in December 2017 and currently I am looking for summer 2017 internship. If you are interested, please see my [resume][10] or contact me throught email: lei.yang.cs.art@gmail.com."
+"I will graduate in January 2018 and positively looking for full-time SDE jobs. If you are interested, please see my [resume][10] or contact me throught email: lei.yang.cs.art@gmail.com"
 </i>
 <br>
 <br>
@@ -16,25 +16,19 @@ tags: about
 <div style="vertical-align:baseline;float:left;width:15rem;margin-right:1rem;">
 <img style="margin:0;padding:50" src="/assets/about/photo.jpeg">
 </div>
-My name is Lei Yang (Chinese: 杨磊, or you can just call me Raymond, my English
- name). Currently I live in Boston and I am a master student of Computer Science at [Boston University][4]. 
-Before starting the master degree, I have workded at ERP Software Companines, 
-SAP and QAD, as a Software Engineer for 1.5 years. I obtained my bachelor degre
-e in Computer Science from [Tongji University][5], Shanghai, China.
+My name is Lei Yang (Chinese: 杨磊). Currently I live in Boston and I am a master student of Computer Science at [Boston University][4]. 
+
+During May - August, 2017, I will have a SDE summer internship in
+[Amazon][11] at Digital Content and Commerce Platform team, Seattle, WA.
+
+Before starting the master degree, I had 11 months (2015 - 2016) full-time SDE experience in [QAD Inc][12] at Foundation Framework Team, Shanghai, China. Besides, a 3-month (2014) QA & Developer internship experience in [SAP][13] at Social Network Software Team, Shanghai, China.
+
+I obtained my Bachelor of Engineering Degree in Software Engineering from [Tongji University][5] at 2015, Shanghai, China.
 
 <hr> 
-<br>
-<br>
-<br>
-<br>
 <h4> Professional </h4>
-As a Java programmer, I have used Java for over 4 years. and passionate in 
-developing handy tools (like [Web Crawler][7]) to help people solve real problems. My [github] [6] has a list of my personal work. Rich experience of implementing foundation tools and frameworks have been accumulated through work and study.
-
-Besides, during undergraduate years, I am very interested mobile development and web development, and [Bricking Game App][8] and [this site][9] are examples of the outcomes.
-
-Meanwhile, I am proficient in Perl, J2EE, Ruby on Rails and has rich experience
-database and linux platform. To explore more, please see my [Resume][10].
+As a Java programmer, I have used Java for over 4 years in developing Java and Android applications. I love developing useful applications to help people solve real problems.
+ My [github] [6] shows the results of my personal works. A [Short List][10] for my primary achievements in programming.
 
 <hr>
 <h4> Before this blog </h4>
@@ -50,15 +44,7 @@ materials I have seen. Wish this blog can help you and bring fun to your life~
 
 <hr>
 <h4> To be Continue </h4>
-Love travel, love sports, love moives, love all fantastic things and awesome people.
-
-Someone Once said 
-
-'In this world there are 2% what you know, 2% what you know that you don't know, and 96% what you don't know that you don't know.'
-
-Love exploring the unknown, exploring all eautiful and mysterious things in the world. If you are on the same way with me, feel free to email me~
-
-Email: lei.yang.cs.art@gmail.com
+Love travel, love running, love [Christopher Nolan][15]'s movies, and love all fantastic things and awesome people.
 
 [1]: /assets/about_me_scenery.jpg
 [2]: http://www.cnblogs.com/Raymond-Yang/
@@ -70,3 +56,8 @@ Email: lei.yang.cs.art@gmail.com
 [8]: https://github.com/Ray-Young/Online-Bricking-App
 [9]: https://github.com/Ray-Young/ray-young.github.com
 [10]: /public/resume.pdf
+[11]: https://en.wikipedia.org/wiki/Amazon.com
+[12]: https://en.wikipedia.org/wiki/Amazon.com
+[13]: http://www.qad.com/about
+[14]: https://www.sap.com/about.html
+[15]: https://en.wikipedia.org/wiki/Christopher_Nolan
