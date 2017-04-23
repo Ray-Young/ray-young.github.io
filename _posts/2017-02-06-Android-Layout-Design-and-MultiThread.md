@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Study Note - Layout Design and MultiThread
+title: Android Layout Design and MultiThread
 date: 2017-02-06
 comments: true
 tags: [Android]

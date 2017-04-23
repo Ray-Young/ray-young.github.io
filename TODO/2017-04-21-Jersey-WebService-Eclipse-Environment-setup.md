@@ -5,6 +5,7 @@ comments: true
 tags: [WebService, JAX-RS]
 ---
 
+### TODO
 1. Eclipse install packages, enable dynamic web application
 2. Download jars jerseys, mysql, gson
 3. Download mysql Trouble shooting Mac terminal ERROR 2002 (HY000):
