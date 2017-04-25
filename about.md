@@ -46,7 +46,7 @@ materials I have seen. Wish this blog can help you and bring fun to your life~
 <h4> To be Continue </h4>
 Love travel, love running, love [Christopher Nolan][15]'s movies, and love all fantastic things and awesome people.
 
-[1]: /assets/about_me_scenery.jpg
+[1]: assets/about_me_scenery.jpg
 [2]: http://www.cnblogs.com/Raymond-Yang/
 [3]: http://www.liriansu.com/
 [4]: http://www.bu.edu/
@@ -55,7 +55,7 @@ Love travel, love running, love [Christopher Nolan][15]'s movies, and love all f
 [7]: https://github.com/Ray-Young/Hetzer-Crawlite
 [8]: https://github.com/Ray-Young/Online-Bricking-App
 [9]: https://github.com/Ray-Young/ray-young.github.com
-[10]: /public/resume.pdf
+[10]: public/resume.pdf
 [11]: https://en.wikipedia.org/wiki/Amazon.com
 [12]: https://en.wikipedia.org/wiki/Amazon.com
 [13]: http://www.qad.com/about

@@ -1,106 +1,46 @@
 # Site settings
-title:       Lei Yang
-email:       lei.yang.cs.art@gmail.com
-author:      Lei Yang
-description: "Drink 23 cups of water a day. Keep running is tired, but makes good shape. A Java Programmer, Blog writer and App learner."
-baseurl:     ""
-url:         "http://www.leiyangblog.com"
-date_format: "%b %-d, %Y"
-
-# Google services
-google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
-google_analytics: true
-google_tag_manager:
-# Bing services
-bing_verification:
-
-# Optional features
-animated:             true
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    true
-ajaxify_contact_form: false
-enable_mathjax: false
-extended_fonts: true
-enable_anchorjs: false
-
-# Facebook Page integration
-# (for instant articles and other stuff)
-fb_page: false
-fb_page_id: 
-
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname: 'leiyangblog'
-
-# Facebook Comments plugin
-# (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments:
-facebook_appid:
-facebook_comments_number: 10
+title: Lei Yang
+description: "Keep running is tired, but keeps good shape! A Java Programmer"
+url: "http://www.leiyangblog.com"
+author:
+  name: "Lei Yang"
+  email: "lei.yang.cs.art@gmail.com"
+  url: "http://www.leiyangblog.com"
 
 # Social icons
 github_username: Ray-Young
 facebook_username: andy.yang.96199
-stackoverflow_id:
-twitter_username:
-skype_username:
-steam_nickname:
-google_plus_id:
 linkedin_username: lei-yang-293231115
-angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
-flattr_button:
-
-# Post sharing icons
-show_sharing_icons: true
-# Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: true
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
-share_hackernews: false
-
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
-  share_buttons:
-    text:         'Share this post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
-  post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
+email: lei.yang.cs.art@gmail.com
 
 # Build settings
-markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     7
-sass:
-  compressed: true
+baseurl:  # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
 gems:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-coffeescript
-  - jekyll-feed
-# ttps://github.com/jekyll/jekyll/issues/2938
-exclude: [vendor]
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
