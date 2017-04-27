@@ -83,10 +83,13 @@ generate a target folder as below
 
 Everything is done. Put the war file into the server and enjoy!
 
+You can also take a look of [my project][6] for reference.
+
 [1]: http://www.leiyangblog.com/Jersey-WebService-Eclipse-Environment-setup
 [2]: assets/Jerseys/maven_download.png
 [3]: assets/Jerseys/maven_config.png
 [4]: http://www.leiyangblog.com/JAX-RS-Jerseys-Server-WebService
 [5]: assets/Jerseys/Maven_result.png
+[6]: https://github.com/Ray-Young/DoMeAFavor-Android-Servlet
 
 
