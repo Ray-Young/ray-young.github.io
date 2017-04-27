@@ -6,7 +6,7 @@ comments: true
 tags: [JAX-RS, WebService]
 ---
 
-### Introduction
+### Introduction:
 Recently I am developing an Android application, which needs to write a
 servlet.
 I choose to use Restful WebService as the approach. I used tomcat as
