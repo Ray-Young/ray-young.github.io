@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JAX-RS Jerseys WebService Servlet
+title: Build Restful server with Jerseys framework
 date: 2017-04-23
 comments: true
 tags: [JAX-RS, WebService]
@@ -8,8 +8,10 @@ tags: [JAX-RS, WebService]
 
 ### Introduction:
 Recently I am developing an Android application, which needs to write a
-servlet.
-I choose to use Restful WebService as the approach. I used tomcat as
+server.
+I choose to build a restful server, because it's most compatiable. We
+don't need to build another server if we want to extend IOS, PC, Windows
+Phone or any other clients. I used tomcat as
 the server, mysql as database. And Jerseys as the webservice
 implementation framework.
 

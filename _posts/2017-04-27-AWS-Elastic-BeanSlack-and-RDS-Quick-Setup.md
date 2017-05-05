@@ -12,7 +12,7 @@ Setup an AWS environment for testing and production environment can save
 a lot time compared with local environment setup. Also, a cloud
 environment helps developers cooperate more conveniently in web
 application development and deployment. This post shows how to setup
- Elastic BeanSlack and Rational Database system for serving a WebService Servlet.
+ Elastic BeanSlack and Rational Database system for serving a RESTful server.
 
 ### Elastic BeanSlack
 
@@ -20,7 +20,7 @@ Elastic BeanSlack is an easy deployment service for web application.
 Just select which server you need (I used Tomcat), and upload the war
 file, then everything is done. You can visit and get the response
 through the url.
-Here I deployed my Web Service Servlet on the Elastic BeanSlack.
+Here I deployed my server code on the Elastic BeanSlack.
 
 ![elsatic_beanslack][1]
 
