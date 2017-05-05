@@ -16,6 +16,11 @@ implementation framework.
 I have introduced the environment setup in the [last post][1], this time
 I am going to introduce how to use Jerseys APIs.
 
+### Architecture Overview
+
+![architecture][4]
+
+
 ### Why Restful Web Service
 
 The most significant benefit of REST architecture is easy data extract.
@@ -116,4 +121,5 @@ Refer the [sample project][3] for reference!
 [1]: http://www.leiyangblog.com/2017/04/21/Jersey-WebService-Eclipse-Environment-setup/
 [2]: /assets/Jerseys/jerseys_project_overview.png
 [3]: https://github.com/Ray-Young/DoMeAFavor
+[4]: assets/Jerseys/architecture.png
 
