@@ -6,6 +6,8 @@ title: CARPE DIEM
 tags: [Personal]
 ---
 
+CARPE DIEM is a short pharse from Lingua Latīna, means seize the time.
+
 Because we are food for worms
 
 Because believe it or not, each and every one of us is one day going to stop breathing, turn cold and die
