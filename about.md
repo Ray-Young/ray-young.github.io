@@ -16,7 +16,7 @@ tags: about
 <div style="vertical-align:baseline;float:left;width:15rem;margin-right:1rem;">
 <img style="margin:0;padding:50" src="/assets/about/photo.jpeg">
 </div>
-My name is Lei Yang (Chinese: 杨磊). Currently I live in Boston and I am a master student of Computer Science at [Boston University][4]. 
+My name is Raymond Yang (Chinese: 杨磊). Currently I live in Boston and I am a master student of Computer Science at [Boston University][4]. 
 
 During May - August, 2017, I will have a SDE summer internship in
 [Amazon][11] at Digital Content and Commerce Platform team, Seattle, WA.

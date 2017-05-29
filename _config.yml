@@ -1,16 +1,16 @@
 # Site settings
-title: Lei Yang
-description: "Keep running is tired, but keeps good shape! A Java Programmer"
+title: Raymond Yang
+description: "Java Programmer. Open to learn any techniques to make things work. Strive to be a full-stack developer."
 url: "http://www.leiyangblog.com"
 author:
-  name: "Lei Yang"
-  email: "lei.yang.cs.art@gmail.com"
+  name: "Raymond Yang"
+  email: "ray.yang30@gmail.com"
   url: "http://www.leiyangblog.com"
 
 # Social icons
 github_username: Ray-Young
 facebook_username: andy.yang.96199
-linkedin_username: lei-yang-293231115
+linkedin_username: raymond-yang-293231115/
 email: lei.yang.cs.art@gmail.com
 
 # Build settings
