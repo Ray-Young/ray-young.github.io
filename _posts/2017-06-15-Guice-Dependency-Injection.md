@@ -57,8 +57,16 @@ public class TicketService {
 Now think about the scenario we are writing integration tests. TestA()
 and TestB() are different classes, and both of them need to use
  TicketService.  What we do now? Shall we initialize TicketService
-seperately in TestA and TestB? It's a waste of resource. Here comes
-Guice.
+seperately in TestA and TestB? It's a waste of resource.
+
+Above the a simple example. We can also think about ticket has its
+dependency, so on and so on. Which makes Guice more convenient in
+implementing Dependency Injection Pattern.
+
+In short, the advantages are:
+1. Save runtime resources (Dependency Injection)
+2. Write less annoying object initialize, make Dependency Injection
+   Easier  (Guice)
 
 ### Dependency Binding
 
@@ -79,9 +87,6 @@ injector.getInstance(TicketService.class);
 }
 ```
 
-Above the a simple example. We can also think about ticket has its
-dependency, so on and so on. Which makes Guice more convenient in
-implementing Dependency Injection Pattern.
 
 Refer the [official documents][1] for more information.
 
