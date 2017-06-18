@@ -1,6 +1,6 @@
 ---
-layout:post
-title: JAX-RS WebTarget URI disable auto-encode
+layout: post
+title: JAX-RS WebTarget URI disable autoencode
 comments: true
 date: 2017-06-12
 tags: [WebService, Jerseys]
