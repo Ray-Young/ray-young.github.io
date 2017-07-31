@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AngularJS first bite
+title: AngularJS Knowledge Summary
 date: 2017-07-16
 comments: true
 tags: [AngularJS, JavaScripts]
@@ -44,6 +44,7 @@ scope.total = 100;
 This will set the corresponding value in the front end to specific
 values.
 
+### Pass data through html
 If we want to transfer some data from one html page to another, these
 data are also included in the scope.
 
@@ -65,6 +66,12 @@ angular.module("app.test").directive("testModal")
 Then you can easily use 'passData' in the corresponding html and js. The
 passData is saved in scope.
 
+Remember that passData is in scope. So in html page, we are able to use
+'passData' directly, in the corresponding js, we should use
+
+```js
+scope.passData
+```
 
 ### Special symbol
 For data binding, there are different ways of data binding.
@@ -75,7 +82,6 @@ For data binding, there are different ways of data binding.
 @ binding is for passing strings, also, can be used for passing method
 = binding is two-way binding
 ```
-
 
 ### Link, compiler, controller
 Compiler compiles the template to be used throughout the page. Linker is
