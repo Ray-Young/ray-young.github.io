@@ -18,8 +18,9 @@ tags: about
 </div>
 My name is Raymond Yang (Chinese: 杨磊). Currently I live in Boston and I am a master student of Computer Science at [Boston University][4]. 
 
-During May - August, 2017, I will have a SDE summer internship in
-[Amazon][11] at Digital Content and Commerce Platform team, Seattle, WA.
+During May - August, 2017, I had a SDE summer internship in
+[Amazon][11] at **Kindle team**, Seattle, WA. Working on building
+process visualization system.
 
 Before starting the master degree, I had 11 months (2015 - 2016) full-time SDE experience in [QAD Inc][12] at Foundation Framework Team, Shanghai, China. Besides, a 3-month (2014) QA & Developer internship experience in [SAP][13] at Social Network Software Team, Shanghai, China.
 
