@@ -17,8 +17,6 @@ The basic usage is override the **toResponse** Method.
 
 >> In specific, if you want to map the ClientErrorException, pick the type as ClientErrorException in the implements.
 
->> e.g.
-
 ```java
 public class ClientExceptionMapper implements ExceptionMapper<ClientErrorException> {
     @Override
@@ -28,6 +26,6 @@ public class ClientExceptionMapper implements ExceptionMapper<ClientErrorExcepti
 }
 ```
 
-In this case, all the ClientErrorException will be mapped to the new class.
+>> In this case, all the ClientErrorException will be mapped to the new class.
 
 
