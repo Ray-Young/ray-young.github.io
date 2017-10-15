@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS Elastic BeanSlack and RDS Quick Setup
+title: AWS Elastic BeanStalk and RDS Quick Setup
 date: 2017-04-27
 comments: true
 tags: [AWS]
@@ -12,15 +12,15 @@ Setup an AWS environment for testing and production environment can save
 a lot time compared with local environment setup. Also, a cloud
 environment helps developers cooperate more conveniently in web
 application development and deployment. This post shows how to setup
- Elastic BeanSlack and Rational Database system for serving a RESTful server.
+ Elastic BeanStalk and Rational Database system for serving a RESTful server.
 
-### Elastic BeanSlack
+### Elastic BeanStalk
 
-Elastic BeanSlack is an easy deployment service for web application.
+Elastic BeanStalk is an easy deployment service for web application.
 Just select which server you need (I used Tomcat), and upload the war
 file, then everything is done. You can visit and get the response
 through the url.
-Here I deployed my server code on the Elastic BeanSlack.
+Here I deployed my server code on the Elastic BeanStalk.
 
 ![elsatic_beanslack][1]
 
@@ -29,7 +29,7 @@ Here I deployed my server code on the Elastic BeanSlack.
 Since we have the server now, we need a database to connect with the
 server, cloud database is our first choice because each developers can
 corporate with each other conveniently. Here we choose RDS, Rational
-Database System. It can directly connect with the elastic beanslack.
+Database System. It can directly connect with the elastic beanstalk.
 Just take the following steps.
 
 ![rds_elastic_bean_config][2]
@@ -48,10 +48,10 @@ Note username and password are defined when initialize the database
 
 Maybe you will have the doubt. Why not use EC2 directly? In my
 understanding, EC2 is a complete virtual machine. Either Elastic
-BeanSlack or RDS are partial modules. To use EC2, you have to configure
+BeanStalk or RDS are partial modules. To use EC2, you have to configure
 the entire environment (path, config files, etc).
 
-Using Elastic Beanslack and RDS is convenient, all the configurations
+Using Elastic BeanStalk and RDS is convenient, all the configurations
 are completed, we just need to upload our warfile/remote connect the
 database. We don't need worry about the configuration, the system path,
 etc.
