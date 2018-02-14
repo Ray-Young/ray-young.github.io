@@ -8,7 +8,7 @@ tags: about
 
 <br>
 <i>
-"I will graduate in January 2018 and positively looking for full-time SDE jobs. If you are interested, please see my [resume][10] or contact me throught email: lei.yang.cs.art@gmail.com"
+Feel free to contact me via lei.yang.cs.art@gmail.com
 </i>
 <br>
 <br>
@@ -16,13 +16,9 @@ tags: about
 <div style="vertical-align:baseline;float:left;width:15rem;margin-right:1rem;">
 <img style="margin:0;padding:50" src="/assets/about/photo.jpeg">
 </div>
-My name is Raymond Yang (Chinese: 杨磊). Currently I live in Boston and I am a master student of Computer Science at [Boston University][4]. 
+Hi, I am Raymond Yang (Chinese: 杨磊). Currently I live in Boston and I am a master student of Computer Science at [Boston University][4]. 
 
-During May - August, 2017, I had a SDE summer internship in
-[Amazon][11] at **Kindle team**, Seattle, WA. Working on building
-process visualization system.
-
-Before starting the master degree, I had 11 months (2015 - 2016) full-time SDE experience in [QAD Inc][12] at Foundation Framework Team, Shanghai, China. Besides, a 3-month (2014) QA & Developer internship experience in [SAP][13] at Social Network Software Team, Shanghai, China.
+Before the master degree, I had 11 months (2015 - 2016) full-time SDE experience in [QAD Inc][12] at Foundation Framework Team, Shanghai, China. Besides, a 3-month (2014) QA & Developer internship experience in [SAP][13] at Social Network Software Team, Shanghai, China.
 
 I obtained my Bachelor of Engineering Degree in Software Engineering from [Tongji University][5] at 2015, Shanghai, China.
 
@@ -33,15 +29,16 @@ As a Java programmer, I have used Java for over 4 years in developing Java and A
 
 <hr>
 <h4> Before this blog </h4>
-I used to store my blogs at [cnblog][2], but now I will start moving the old blogs here and translate them all in English into this site. There are many works to do and I am not sure when it will  be finished. Anyway I will try my best.
+I used to store all my posts at [cnblog][2], however, they were all written in Chinese. Now I will start moving the old posts to here and translate them into English.
 
 <hr>
 <h4> This blog </h4>
-Thanks to [Lirian Su][3], an awesome geek and nice guy who introduce me to use jekyll and github page to build my own site.
 
-I will record the technical problems I have met and how to solve these problems
-in the blog. Also I will write down the exciting moment of my life and awesome
-materials I have seen. Wish this blog can help you and bring fun to your life~
+I will record technical problems I have met and how to solve these problems
+in the blog. Also, I will write exciting things and awesome moments that
+I have been through. Wish this blog can help you and bring fun to your life~
+
+Thanks to [Lirian Su][3] introduce Jekyll and Github page to me!
 
 <hr>
 <h4> To be Continue </h4>
