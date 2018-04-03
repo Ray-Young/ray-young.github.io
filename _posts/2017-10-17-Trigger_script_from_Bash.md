@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Write Program Entrance using Scripts
+title: Trigger other script from Bash
 date: 2017-10-17
 comments: true
 tags: [Linux]
