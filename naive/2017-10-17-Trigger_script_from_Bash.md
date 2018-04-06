@@ -1,16 +1,13 @@
 ---
 layout: post
-title: Trigger other script from Bash
+title: Trigger script from Bash
 date: 2017-10-17
 comments: true
 tags: [Linux]
 ---
 
 ### Introduction:
-There are many advantage to use script as the entrance of small program,
-which saves environment setup time and make things easy. Furthermore,
-it's also preferred to write small script to solve daily small problem
-(e.g. sort folders, find docs, etc.). This post intends to illustrate how to write Linux Script in an easy way.
+Needless to say
 
 ### What is #! /bin/...
 We can see in the first line of the script file, it's usually a line

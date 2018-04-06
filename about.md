@@ -14,48 +14,44 @@ Feel free to contact me via lei.yang.cs.art@gmail.com
 <br>
 
 <div style="vertical-align:baseline;float:left;width:15rem;margin-right:1rem;">
-<img style="margin:0;padding:50" src="/assets/about/photo.jpeg">
+<img style="margin:0;padding:50" src="/assets/about/photo.jpg">
 </div>
-Hi, I am Raymond Yang (Chinese: 杨磊). Currently I live in Boston and I am a master student of Computer Science at [Boston University][4]. 
-
-Before the master degree, I had 11 months (2015 - 2016) full-time SDE experience in [QAD Inc][12] at Foundation Framework Team, Shanghai, China. Besides, a 3-month (2014) QA & Developer internship experience in [SAP][13] at Social Network Software Team, Shanghai, China.
-
-I obtained my Bachelor of Engineering Degree in Software Engineering from [Tongji University][5] at 2015, Shanghai, China.
+Hi, I am Raymond. A programmer, dota2 player and ski learner. In most lazy weekend, in addition to labels I just mentioned, I love cooking and writing blogs about technical and daily stuff.
 
 <hr> 
 <h4> Professional </h4>
-As a Java programmer, I have used Java for over 4 years in developing Java and Android applications. I love developing useful applications to help people solve real problems.
- My [github] [6] shows the results of my personal works. A [Short List][10] for my primary achievements in programming.
+
+Currently I'm working as a software development engineer at [Amazon Web Service Pinpoint Team][10] in Seattle. I also interned at [Amazon Kindle][11] as a software development intern during the summer of 2017 at Seattle.
+
+During the year 2014 to 2016, One year full time software development experience at [QAD Inc][7] and half year software engineer Co-op/Internship at [SAP][8], both in Shanghai, China.
+
+Good at web application (front/backend), operational tool development. Learned tons of experience about leadership, and accumulated lots of knowledge in project development.
+
+Love Java, also get tons of experience about script language (Perl, Python, Ruby, Lua, Groovy) in operational works.
+
 
 <hr>
-<h4> Before this blog </h4>
-I used to store all my posts at [cnblog][2], however, they were all written in Chinese. Now I will start moving the old posts to here and translate them into English.
+<h4>Education</h4>
+
+Achieved master degree at [Boston University][4] in Computer Science (2016-2018).
+
+Achieved bachelor degree at [Tongji University][5] in Software Engineering (2011-2015).
 
 <hr>
-<h4> This blog </h4>
+<h4>In addition</h4>
+Take a look of my [Github][6] and [Linkedin][12]
 
-I will record technical problems I have met and how to solve these problems
-in the blog. Also, I will write exciting things and awesome moments that
-I have been through. Wish this blog can help you and bring fun to your life~
-
-Thanks to [Lirian Su][3] introduce Jekyll and Github page to me!
-
-<hr>
-<h4> To be Continue </h4>
-Love travel, love running, love [Christopher Nolan][15]'s movies, and love all fantastic things and awesome people.
+I used to write my blog at [cnblog][2], however, they were all written in Chinese. Now I will start moving the old posts to here and translate them into English.
 
 [1]: assets/about_me_scenery.jpg
 [2]: http://www.cnblogs.com/Raymond-Yang/
 [3]: http://www.liriansu.com/
-[4]: http://www.bu.edu/
-[5]: http://www.tongji.edu.cn/
+[4]: https://www.bu.edu/cs/
+[5]: http://sse.tongji.edu.cn/En/Default
 [6]: https://github.com/ray-young
-[7]: https://github.com/Ray-Young/Hetzer-Crawlite
-[8]: https://github.com/Ray-Young/Online-Bricking-App
-[9]: https://github.com/Ray-Young/ray-young.github.com
-[10]: public/resume.pdf
-[11]: https://en.wikipedia.org/wiki/Amazon.com
-[12]: https://en.wikipedia.org/wiki/Amazon.com
-[13]: http://www.qad.com/about
-[14]: https://www.sap.com/about.html
-[15]: https://en.wikipedia.org/wiki/Christopher_Nolan
+[7]: http://www.qad.com/about
+[8]: https://www.sap.com/about.html
+[9]: none
+[10]: https://aws.amazon.com/pinpoint/
+[11]: https://en.wikipedia.org/wiki/Amazon_(company)
+[12]: https://www.linkedin.com/in/raymond-yang-293231115/
