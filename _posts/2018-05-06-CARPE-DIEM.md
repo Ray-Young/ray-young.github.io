@@ -1,23 +1,24 @@
 ---
 layout: post
-date: 2017-05-22
+date: 2018-05-06
 comments: true
 title: CARPE DIEM
-tags: [Personal]
+tags: [Movie, Personal]
 ---
 
-'CARPE DIEM' is a short pharse from Lingua Latīna, means seize the time.
-Each time I come to the crossroads of life, it raises from my deep side.
-"CARPE DIEM, CARPE DIEM...".
+<i>
+'CARPE DIEM' is a short pharse from Latīna, means seize the day.
+</i>
 
-I really love the quotes from Dead Poets Society, when
-John Keating explains 'CARPE DIEM' to his students.
+![image1][1]
 
-"Because we are food for worms
+Because we are food for worms
 
 Because believe it or not, each and every one of us is one day going to stop breathing, turn cold and die
 
 Same haircuts, full of hormones, just like you
+
+![image2][2]
 
 Invincible, just like you feel
 
@@ -33,4 +34,7 @@ Did they wait until it was too late to make from their life even one iota of wha
 
 Because you see, gentleman,
 
-These boys are now fertilizing daffodils"
+These boys are now fertilizing daffodils
+
+[1]: assets/CarpeDiem/Robin.jpg
+[2]: assets/CarpeDiem/Quotes.png
