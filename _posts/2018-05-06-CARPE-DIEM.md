@@ -7,8 +7,19 @@ tags: [Movie, Personal]
 ---
 
 <i>
-'CARPE DIEM' is a short pharse from Latīna, means seize the day.
+'CARPE DIEM' is a short pharse in Latīna, meaning seize the day.
 </i>
+
+<i>
+Balance the burden of life with the pursuit of happiness will be a way to
+prevent Nihilism.
+</i>
+
+<i>
+In memory of Robin Williams, though he was gone, his figure in Dead Poets Society lives.
+<i>
+
+<br>
 
 ![image1][1]
 
