@@ -27,9 +27,11 @@ The idea is that rare words are more informative than common words.  (This has c
 
 Hence, the definition of tf-idf is as follows.
 First:
+
 ![tfidf1][6]
 
 Next, if N is the total number of documents in the corpus D then:
+
 ![tfidf2][7]
 
 where the denominator is the number of documents in which the term t appears.
@@ -94,6 +96,6 @@ You can also see the [whole example][5] in my github
 [3]: http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
 [4]: http://stackoverflow.com/questions/8897593/similarity-between-two-text-documents
 [5]: https://github.com/Ray-Young/RSS-Reader
-[6]: /assets/tfidf/tfidf1.png
-[7]: /assets/tfidf/tfidf2.png
-[8]: /assets/tfidf/tfidf3.png
+[6]: assets/vectorize/formula_one.png
+[7]: assets/vectorize/formula_two.png
+[8]: assets/vectorize/formula_three.png
