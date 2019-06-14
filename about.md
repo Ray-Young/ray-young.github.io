@@ -23,9 +23,7 @@ For me, I am a Advertising software engineer in Amazon, Seattle. In leisure time
 <hr> 
 <h4> Professional </h4>
 
-* Advertising software engineer. Build THE SECRET of placing most
-  relevant Ads to Amazon's customer and serve advertisers with best advertising
-experience!
+* Advertising software engineer. Build THE SECRET of placing most relevant Ads to Amazon's customer and serve advertisers with best advertising experience!
 
 * 3 years SDE work experience
 
@@ -34,9 +32,9 @@ experience!
 <hr>
 <h4>Education</h4>
 
-Achieved master degree at [Boston University][4] in Computer Science (2016-2018).
+* Computer Science, Master of Science, [Boston University][4] (2016-2018).
 
-Achieved bachelor degree at [Tongji University][5] in Software Engineering (2011-2015).
+* Software Engineering, Master of Engineering, [Tongji University][5] (2011-2015).
 
 <hr>
 
