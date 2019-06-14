@@ -13,7 +13,6 @@ Feel free to contact me through LinkedIn @raymond-yang-293231115
 <br>
 <br>
 
-</div>
 Hi, I am Raymond. Nice to meet you here!
 
 For me, I am a Advertising software engineer in Amazon, Seattle. In leisure time, I love ski, playing sports and dota2 with friends. For quiet activities, I love writing code, reading novels and history books!
@@ -21,11 +20,11 @@ For me, I am a Advertising software engineer in Amazon, Seattle. In leisure time
 <hr>
 <h4> Professional </h4>
 
-  * Advertising software engineer. Build THE SECRET of placing most relevant Ads to Amazon's customer and serve advertisers with best advertising experience!
+* Advertising software engineer. Our team builds THE SECRET of placing most relevant Ads to Amazon's customer and serve advertisers with best advertising experience!
 
-  * 3 years SDE work experience
+* 3 years SDE work experience
 
-  * Ex-SAPer
+* Ex-SAPer
 
 <hr>
 <h4>Education</h4>
