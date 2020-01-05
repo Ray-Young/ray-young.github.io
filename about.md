@@ -21,11 +21,13 @@ Hi, I am Raymond. Nice to meet you here!
 <hr>
 <h4> Professional </h4>
 
-* Software engineer in Amazon. Our team builds low-latency, large-scale data ingestion and analysis pipeline. We are THE SECRET of placing most relevant Ads to Amazon's customers and serve advertisers with best advertising experience!
+* Software engineer at Amazon. Our team builds low-latency, large-scale data Ads Targeting data evaluation pipelines. We are THE SECRET of placing most relevant Ads to Amazon's customers and serve advertisers with best advertising experience!
 
-* 3 years industrial experience in Java Full-stack development
-
-* Expert in building and migrating services with AWS Cloud
+* 3 years industrial experience in Software Design & Development.
+  I have designed and built multi Ads Targeting evaluation pipelines like
+Behavior Targeting and contextual Targeting. Additionally , I technically led the rollout of the latest Ads
+impression compution system, which ingests and evaluates
+user activities across global Amazon retail network.
 
 <hr>
 <h4>Education</h4>
