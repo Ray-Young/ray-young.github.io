@@ -14,9 +14,11 @@ Feel free to contact me through LinkedIn @raymond-yang-293231115
 <br>
 
 
-Hi, I am Raymond. Nice to meet you here!
+Hi, I am Raymond. Nice to meet you here! This is my blog.
+I will post some technical and interesting stuff from time to time!
 
-![image][1]
+I was born and grew up in Shanghai, then I went to Boston for graduate school,
+and now I live and work in Seattle. I love ski, cooking and eating Chinese food, playing dota2, watching movies, coding, assembling ship and robot models, basketball... Bellow is something more about myself!
 
 <hr>
 <h4> Professional </h4>
@@ -25,7 +27,7 @@ Hi, I am Raymond. Nice to meet you here!
 
 * 3 years industrial experience in Software Design & Development.
   I have designed and built multi Ads Targeting evaluation pipelines like
-Behavior Targeting and contextual Targeting. Additionally , I technically led the rollout of the latest Ads
+Behavior Targeting and contextual Targeting. Additionally, I technically led the rollout of the latest Amazon Ads
 impression compution system, which ingests and evaluates
 user activities across global Amazon retail network.
 
