@@ -8,7 +8,7 @@ tags: about
 
 <br>
 <i>
-Feel free to contact me through LinkedIn @raymond-yang-293231115
+Feel free to contact me through LinkedIn [@raymond-yang-293231115](https://www.linkedin.com/in/raymond-yang-293231115/)
 </i>
 <br>
 <br>
