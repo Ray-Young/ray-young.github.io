@@ -4,14 +4,11 @@ description: "Java Programmer. Open to learn any techniques to make things work.
 url: "http://www.leiyangblog.com"
 author:
   name: "Raymond Yang"
-  email: "ray.yang30@gmail.com"
   url: "http://www.leiyangblog.com"
 
 # Social icons
 github_username: Ray-Young
-facebook_username: andy.yang.96199
 linkedin_username: raymond-yang-293231115/
-email: lei.yang.cs.art@gmail.com
 
 # Build settings
 baseurl:  # Change this to your relative path (ex: /blog/), or leave just a /
