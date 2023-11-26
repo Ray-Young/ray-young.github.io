@@ -14,35 +14,33 @@ Feel free to contact me through LinkedIn [@raymond-yang-293231115](https://www.l
 <br>
 
 
-Hi, I am Raymond. Nice to meet you here! This is my blog.
-I will post some technical and interesting stuff from time to time!
+Hi, I am Lei Yang (杨磊), Raymond is my English name!
 
-I was born and grew up in Shanghai, then I went to Boston for graduate school,
-and now I live and work in Seattle. I love ski, cooking and eating Chinese food, playing dota2, watching movies, coding, assembling ship and robot models, basketball... Bellow is something more about myself!
+Nice to meet you here! This is my blog to note my life and some technical posts. I love ski, movies (big fan of Christopher Nolan), reading (a nerd of history), video games (DOTA2).
 
-<hr>
-<h4> Professional </h4>
+Here is a short story about me!
 
-* Software engineer at Amazon. Our team builds low-latency, large-scale data Ads Targeting data evaluation pipelines. We are THE SECRET of placing most relevant Ads to Amazon's customers and serve advertisers with best advertising experience!
+Shanghai -> Boston -> Seattle.
 
-* 3 years industrial experience in Software Design & Development.
-  I have designed and built multi Ads Targeting evaluation pipelines like
-Behavior Targeting and contextual Targeting. Additionally, I technically led the rollout of the latest Amazon Ads
-impression compution system, which ingests and evaluates
-user activities across global Amazon retail network.
+Shanghai is the place I was born and grown up. I finished my college degree in Tongji University on Software Engineering major, and started my career as a software engineer in [QAD][13].
 
-<hr>
-<h4>Education</h4>
+QAD is a multinational corporation focusing on ERP software development. This is the place where I learned day to day software development work, team collaboration, and transformed my mindset from a school to profession.
 
-* Computer Science, Master of Science, [Boston University][4] (2016-2018).
+Later, I decided to pursue my master degree, this starts a new charpter of my life.
 
-* Software Engineering, Master of Engineering, [Tongji University][5] (2011-2015).
+Boston is the place I landed in United States. I pursued my master degree in Computer Science in Boston University. It's a beautiful city in summer, and really cooooold in winter. I learned ski there, which became my favorite sports later!
 
-<hr>
+After graduation, I moved to Seattle and started my job as a software development engineer in Amazon Ads Targeting. It was challenging and fulfilling two years. From struggling finishing my first task to leading and launching a big projects; from shy to speak out in standup to host cross team design reviews. There were tons of memories and growings!
+
+In 2020, I decided to start a new career in [Qualtrics][3]. Qualtrics is an experience management platform and I was offered the chance to build the high scale targeting system (continue my technical journey in Ads Targeting System), There was a big debate in my mind at that time, and eventually I made up my mind to take the adventure and experience something different!
+
+After three years' thriving, now, I am currently serving as a senior software engineer and tech lead in digitial experience platform in Qualtrics!
+
+
 
 [1]: /assets/about_me_page.jpg
 [2]: http://www.cnblogs.com/Raymond-Yang/
-[3]: http://www.liriansu.com/
+[3]: https://www.qualtrics.com/
 [4]: https://www.bu.edu/cs/
 [5]: http://sse.tongji.edu.cn/En/Default
 [6]: https://github.com/ray-young
@@ -52,3 +50,4 @@ user activities across global Amazon retail network.
 [10]: https://aws.amazon.com/pinpoint/
 [11]: https://en.wikipedia.org/wiki/Amazon_(company)
 [12]: https://www.linkedin.com/in/raymond-yang-293231115/
+[13]: https://en.wikipedia.org/wiki/QAD_Inc
